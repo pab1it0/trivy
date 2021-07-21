@@ -1,5 +1,5 @@
 - id: trivy
   name: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
   description: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-  entry: trivy config
+  entry: trivy fs --security-checks vuln,config
   language: golang
