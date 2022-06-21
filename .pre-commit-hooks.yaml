@@ -1,0 +1,5 @@
+- id: trivy
+  name: Comprehensive security scanner
+  description: Comprehensive security scanner
+  entry: trivy fs --security-checks vuln,secret,config .
+  language: golang
