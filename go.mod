@@ -40,7 +40,7 @@ require (
 	github.com/samber/lo v1.21.0
 	github.com/stretchr/testify v1.7.2
 	github.com/testcontainers/testcontainers-go v0.13.0
-	github.com/tetratelabs/wazero v0.0.0-20220606011721-119b069ba23e
+	github.com/tetratelabs/wazero v1.7.2
 	github.com/twitchtv/twirp v8.1.2+incompatible
 	github.com/urfave/cli/v2 v2.8.1
 	github.com/xlab/treeprint v1.1.0
